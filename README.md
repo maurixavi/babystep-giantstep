@@ -1,3 +1,3 @@
 # babystep-giantstep
-In group theory the baby-step giant-step is a meet-in-the-middle algorithm for computing the discrete logarithm or order of an element in a finite abelian group. 
-The discrete log problem is of fundamental importance to the area of public key cryptography.
+En teoría de grupos, el algoritmo baby-step giant-step es un método para calcular el logaritmo discreto de un elemento en un grupo.
+El problema del logaritmo discreto es de fundamental importancia para el área de la criptografía asimétrica.
